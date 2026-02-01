@@ -4,10 +4,9 @@
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivambhosle007/)
-  [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivambhosle.work@gmail.com)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white)](https://shivambhosle.vercel.app/)
-  [![Resume Badge](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1cjUFet02qS2myK64I6MvOtS86W6pxu6K/view?usp=drive_link)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-dtu/)
+  [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam8764@gmail.com)
+  [![Resume Badge](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1vF3VQSFQQI1Y58P87JwFJosE6ldkvgdE/view?usp=sharing)
 
 </div>
 

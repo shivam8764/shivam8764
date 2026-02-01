@@ -51,26 +51,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=007-shivam&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=007-shivam&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=007-Shivam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=007-shivam&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="007-shivam" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,334155&height=100&section=footer" alt="footer" />
-</div>
